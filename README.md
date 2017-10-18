@@ -1,1 +1,1 @@
-# activemq kafka playground
+# activemqkafkaplayground
